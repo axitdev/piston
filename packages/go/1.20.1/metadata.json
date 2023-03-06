@@ -1,0 +1,5 @@
+{
+    "language": "go",
+    "version": "1.20.1",
+    "aliases": ["go", "golang"]
+}
